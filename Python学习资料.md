@@ -1,8 +1,4 @@
-当然可以！以下是一些在 GitHub 上开源、**免费、适合 Python 初学者** 的学习资源，涵盖从基础语法到项目实践：
 
-------
-
-## 🎓 GitHub 上高质量 Python 初学者课程推荐
 
 ### 1. [**The Algorithms - Python**](https://github.com/TheAlgorithms/Python)
 
