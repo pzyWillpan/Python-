@@ -68,7 +68,3 @@
 | 学习代码结构   | learn-python, Python Cheatsheet    |
 | 提升算法能力   | TheAlgorithms/Python               |
 | 通过项目练习   | Build-your-own-x                   |
-
-------
-
-如果你告诉我你的兴趣方向（如自动化脚本、网页开发、数据分析等），我可以再定制一份匹配的学习路径和 GitHub 项目推荐。是否需要？
